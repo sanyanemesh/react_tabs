@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,UAAW,CACX,WAAY,CACZ,wBACF,CAEA,cACE,qBACF","file":"main.2448f2ed.chunk.css","sourcesContent":[".button {\n  width: 50px;\n  height: 25px;\n  background-color: #fefefe;\n}\n\n.button:focus {\n  background-color: hsl(0, 0%, 80%);\n}\n"]}
